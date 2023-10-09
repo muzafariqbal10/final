@@ -1,0 +1,15 @@
+.nav {
+    display: flex;
+    background-color: rgb(102, 230, 230);
+}
+
+ul li {
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 40px;
+}
+h1{
+    padding: 20px;
+   
+    margin-left: 100px;
+}
